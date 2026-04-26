@@ -85,4 +85,4 @@ To run this application, you need to start **both** the backend API server and t
 *   **Admin Dashboard**: Create a protected `/admin` route for store owners to manage inventory and view orders.
 
 ---
-*Designed & Built for the modern web.*
+
