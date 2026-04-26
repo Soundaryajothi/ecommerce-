@@ -77,11 +77,3 @@ To run this application, you need to start **both** the backend API server and t
 ├── package.json            # Project dependencies and scripts
 └── vite.config.js          # Vite configuration
 ```
-
-## 🔮 Future Roadmap (Next Steps)
-*   **Database Integration**: Replace in-memory array storage with a robust database (MongoDB or PostgreSQL) for persistent user accounts and orders.
-*   **Payment Gateway**: Integrate Stripe or PayPal API for real payment processing during checkout.
-*   **Admin Dashboard**: Create a protected `/admin` route for store owners to manage inventory and view orders.
-
----
-
