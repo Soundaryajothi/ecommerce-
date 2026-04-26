@@ -40,7 +40,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1.  **Clone the repository** (if you haven't already):
     ```bash
     git clone https://github.com/Soundaryajothi/ecommerce-.git
-    cd "YourRepositoryName"
     ```
 
 2.  **Install dependencies**:
